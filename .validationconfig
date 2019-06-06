@@ -1,2 +1,2 @@
-PR_TITLE_REGEX=/^(APP)-[[:digit:]]+: [0-9a-zA-Z]/
-COMMIT_MESSAGE_REGEX=/^(APP)-[[:digit:]]+: [0-9a-zA-Z]/
+PR_TITLE_REGEX=/^(APP)-[[:digit:]]+: [0-9a-zA-Z]/i
+COMMIT_MESSAGE_REGEX=/^(APP)-[[:digit:]]+: [0-9a-zA-Z]/i
